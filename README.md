@@ -1,0 +1,1 @@
+# adobe-settings-manager
